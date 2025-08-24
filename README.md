@@ -29,7 +29,7 @@ Key components include:
 - Total number of sales made.
 - Which day of the month had the highest number of sales?
 
-# 📈 Power BI Dashboard Highlights
+## 📈 Power BI Dashboard Highlights
 - Genre-wise revenue breakdown (Pie Chart)
 - Top-selling albums and artist performance
 - Daily average sales trend with peak day indicator
